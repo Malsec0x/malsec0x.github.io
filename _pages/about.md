@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-toc: true
+toc_label: "Table of Contents"
 ---
 
 <h2 align="center">👋 Hi, I'm Ngoy Chiva</h2>
