@@ -14,10 +14,9 @@ I’m always eager to connect with fellow cybersecurity professionals, exchange 
 </p>
 
 <br>
-- :school: I am a `Student ` from the Department of Telecom & Networking at [CADT](#).
-- :technologist: I love using Software to solve every `Problem`.
-- :computer: I am a competitive CTF at `HackTheBox`, `PicoCTF`.
-- :student: I’m currently learning `Cloud computing` and `Cybersecurity`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
+- :school: I am a student from the Department of **Telecom & Networking** at [CADT](#).
+- :technologist: I love using Software to solve problem.
+- :student: I’m currently learning **Cloud computing** and **Cybersecurity**.
+- :nerd_face: Always **learning new things**.
+- :thinking: I’m currently open for a new job opportunity, this is [MY RESUME](#).
 <be>
