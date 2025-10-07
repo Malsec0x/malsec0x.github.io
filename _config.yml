@@ -17,8 +17,8 @@ title: Jiva Labs
 email:
 description: >- # this means to ignore newlines until "baseurl:"
  Welcome to Jiva Labs profile!.
-twitter_username: username
-github_username: https://github.com/Malsec0x
+twitter_username: @NgoyChiva
+github_username: @Malsec0x
 minimal_mistakes_skin: neon
 search: true
 
@@ -60,30 +60,27 @@ author:
   avatar : "/assets/images/profile.jpg"
   bio    : "I am a senior student in Cybersecurity at CADT. "
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/NgoyChiva"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Malsec0x"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/chiva-ngoy/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/NgoyChiva"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Malsec0x"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/chiva-ngoy/"
 
 defaults:
   # _posts

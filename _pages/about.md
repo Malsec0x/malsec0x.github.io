@@ -2,21 +2,56 @@
 permalink: /about/
 title: "About"
 ---
-<h3 align="center">
-  NGOY CHIVA 
-</h3>
-<p align="left"><br>
-As a passionate cybersecurity student, I’m on a mission to safeguard digital landscapes. My journey involves exploring the intricate world of ethical hacking.<br>
-🔍 Previous Internship Experience: Penetration Tester
-During my internship, I honed my skills by meticulously testing web applications for weaknesses. I relished the challenge of identifying security gaps and devising robust solutions. My toolkit includes a mix of manual testing, automated tools, and creative problem-solving.<br>
-🌐 Let’s Connect!<br>
-I’m always eager to connect with fellow cybersecurity professionals, exchange knowledge, and contribute to a safer digital ecosystem. Feel free to reach out.
+
+<h2 align="center">👋 Hi, I'm Ngoy Chiva</h2>
+
+<p align="center">
+  Cybersecurity Student&nbsp;•&nbsp;Penetration Tester&nbsp;•&nbsp;Learner
 </p>
 
-<br>
-- :school: I am a student from the Department of **Telecom & Networking** at [CADT](https://cadt.edu.kh/).
-- :technologist: I love using Software to solve problem.
-- :student: I’m currently learning **Cloud computing** and **Cybersecurity**.
-- :nerd_face: Always **learning new things**.
-- :thinking: I’m currently open for a new job opportunity, this is [MY RESUME](#).
-<be>
+---
+
+### 💻 About Me
+
+I’m a **cybersecurity student** passionate about exploring and securing digital systems.  
+My work focuses on **ethical hacking**, **web application security**, and **cloud security** — always driven by curiosity and a problem-solving mindset.
+
+---
+
+### 🧠 Experience
+
+**🔍 Penetration Testing Internship**  
+During my internship, I focused on identifying and exploiting vulnerabilities in web applications.  
+I worked with a mix of **manual testing**, **automation tools**, and **creative attack simulation** to strengthen system security.
+
+**Key skills:**
+- Web application testing (OWASP Top 10)
+- Vulnerability analysis and reporting
+- Scripting for automation (Python, Bash)
+- Working within CI/CD and cloud environments
+
+---
+
+### 🎯 Currently
+
+- 🏫 Studying **Telecom & Networking** at [CADT](https://cadt.edu.kh/)  
+- ☁️ Learning **Cloud Computing** and **Cybersecurity**  
+- 💡 Building personal projects shared on [Jiva Labs](/)  
+- 📂 Open to new **job or internship** opportunities — [View My Resume](#)
+
+---
+
+### 🌐 Connect With Me
+
+I enjoy meeting people who share the same curiosity for cybersecurity, research, and technology.  
+Feel free to reach out or collaborate — I’m always open to learning something new.
+
+<p align="center">
+  <a href="https://github.com/Malsec0x">GitHub</a> |
+  <a href="https://www.linkedin.com/in/chiva-ngoy/">LinkedIn</a> |
+  <a href="mailto:chiva.ngoy.168@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center"><i>“Keep learning. Keep building. Keep breaking (responsibly).”</i></p>
