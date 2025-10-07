@@ -14,7 +14,7 @@ I’m always eager to connect with fellow cybersecurity professionals, exchange 
 </p>
 
 <br>
-- :school: I am a student from the Department of **Telecom & Networking** at [CADT](#).
+- :school: I am a student from the Department of **Telecom & Networking** at [CADT](https://cadt.edu.kh/).
 - :technologist: I love using Software to solve problem.
 - :student: I’m currently learning **Cloud computing** and **Cybersecurity**.
 - :nerd_face: Always **learning new things**.
