@@ -5,15 +5,15 @@ title: "About"
 <h3 align="center">
   NGOY CHIVA 
 </h3>
-<p align="left">
-As a passionate cybersecurity student, I’m on a mission to safeguard digital landscapes. My journey involves exploring the intricate world of ethical hacking.
+<p align="left"><br>
+As a passionate cybersecurity student, I’m on a mission to safeguard digital landscapes. My journey involves exploring the intricate world of ethical hacking.<br>
 🔍 Previous Internship Experience: Penetration Tester
-During my internship, I honed my skills by meticulously testing web applications for weaknesses. I relished the challenge of identifying security gaps and devising robust solutions. My toolkit includes a mix of manual testing, automated tools, and creative problem-solving.
-🌐 Let’s Connect!
+During my internship, I honed my skills by meticulously testing web applications for weaknesses. I relished the challenge of identifying security gaps and devising robust solutions. My toolkit includes a mix of manual testing, automated tools, and creative problem-solving.<br>
+🌐 Let’s Connect!<br>
 I’m always eager to connect with fellow cybersecurity professionals, exchange knowledge, and contribute to a safer digital ecosystem. Feel free to reach out.
 </p>
 
-<br><br>
+<br>
 - :school: I am a `Student ` from the Department of Telecom & Networking at [CADT](#).
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive CTF at `HackTheBox`, `PicoCTF`.
